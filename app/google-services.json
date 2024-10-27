@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732726569683",
+    "project_id": "demodb-5dad6",
+    "storage_bucket": "demodb-5dad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732726569683:android:a047d82447fc1b5f638226",
+        "android_client_info": {
+          "package_name": "com.example.crudservicios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWjGgp4W_Zqg_3wLkbV7F-u1H4cMvEeIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
